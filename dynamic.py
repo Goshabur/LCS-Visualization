@@ -32,4 +32,3 @@ for h in range(len(a) + len(b)):
         break
 print(matrix[len(a)][len(b)])
 print(answ[::-1])
-print('hello')
